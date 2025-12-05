@@ -10,7 +10,10 @@ project Adventofcode is
       "advent_of_code-y2025-day_2-part_1.adb",
 
       "advent_of_code-y2025-day_3-part_2.adb",
-      "advent_of_code-y2025-day_3-part_1.adb");
+      "advent_of_code-y2025-day_3-part_1.adb",
+
+      "advent_of_code-y2025-day_5-part_2.adb",
+      "advent_of_code-y2025-day_5-part_1.adb");
 
 end Adventofcode;
 
